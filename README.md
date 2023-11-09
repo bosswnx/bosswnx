@@ -19,6 +19,6 @@ This is Nelson Boss.
 
 - 🏫 I'm a junior student at USTB (University of Sicence and Technology Beijing).
 - 🌱 I’m currently interested in and learning DBMS (database management system).
-- 🧑🏻‍💻 I'm an AFO OIer and a active ACMer and I love it.
+- 🧑🏻‍💻 I'm an AFO OIer and an active ACMer and I love it.
 - 🥰 I love movies and games.
 - 📫 Reach me: bosswnx@outlook.com
