@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 This is Nelson Boss.
 
 - 🏫 I'm a junior student at USTB (University of Sicence and Technology Beijing).
-- 🌱 I’m currently interested in and learning computer architecture.
+- 🌱 I’m currently interested in and learning operating system.
+- 📖 I want to go to IPADS for a PhD. 
 - 🧑🏻‍💻 I'm an AFO OIer and an active ACMer and I love it.
 - 🥰 I love movies, books, games and music.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/About
-- 📫 Reach me: bosswnx@outlook.com
+- 📫 Feel free to reach me: bosswnx@outlook.com
