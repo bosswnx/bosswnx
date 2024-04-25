@@ -24,3 +24,6 @@ This is Nelson Boss.
 - 🥰 I love movies, books, games and music.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/about
 - 📫 Feel free to reach me: bosswnx@outlook.com
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
