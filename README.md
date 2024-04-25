@@ -30,6 +30,10 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
+From: 17 April 2024 - To: 24 April 2024
+
+Total Time: 1 hr 54 mins
+
 Markdown      1 hr 8 mins     ██████████████▒░░░░░░░░░░   56.90 %
 Rust          26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
 C++           13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
