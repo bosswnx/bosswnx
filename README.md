@@ -25,6 +25,8 @@ This is Nelson Boss.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/about
 - 📫 Feel free to reach me: bosswnx@outlook.com
 
+### Wakatime 💻
+
 <!--START_SECTION:waka-->
 
 ```txt
