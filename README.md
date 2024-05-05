@@ -19,7 +19,7 @@ This is Nelson Boss.
 
 - 🏫 I'm a junior student at USTB (University of Sicence and Technology Beijing).
 - 🌱 I’m currently interested in and learning operating system.
-- 🧑🏻‍💻 I'm an AFO OIer and an active ACMer and I love it.
+- 🧑🏻‍💻 I'm an AFO OIer and ACMer.
 - 🥰 I love movies, books, games and musics.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/about
 - 📫 Feel free to reach me: bosswnx@outlook.com
