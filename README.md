@@ -29,15 +29,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2024 - To: 24 May 2024
+From: 25 April 2024 - To: 25 May 2024
 
-Total Time: 81 hrs 7 mins
+Total Time: 87 hrs 2 mins
 
-Rust             47 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.55 %
-C                11 hrs 30 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Markdown         10 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Text             2 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Python           1 hr 59 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Rust             56 hrs 23 mins  ████████████████░░░░░░░░░   64.27 %
+Markdown         9 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+C                9 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Text             2 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Makefile         2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
