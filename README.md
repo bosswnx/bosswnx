@@ -29,15 +29,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 27 September 2024
+From: 29 August 2024 - To: 28 September 2024
 
-Total Time: 9 hrs 29 mins
+Total Time: 7 hrs 26 mins
 
-Markdown     2 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.37 %
-CSS          2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-YAML         1 hr 58 mins    █████░░░░░░░░░░░░░░░░░░░░   20.16 %
-EJS          1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+CSS        2 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
+Markdown   2 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 %
+EJS        1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+YAML       54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+JSON       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
