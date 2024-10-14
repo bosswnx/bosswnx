@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 This is Nelson Boss.
 
 - 🏫 I'm a senior student at USTB (University of Science and Technology Beijing).
-- 🌱 I’m currently interested in and learning operating system.
+- 🌱 I’m currently interested in and learning Compilers & Programming Languages.
 - 🧑🏻‍💻 I'm an AFO OIer and ACMer.
 - 🥰 I love movies, books, games and musics.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/about
+- 🔗 My personal [profile](https://bosswnx.xyz), [blog](https://blog.bosswnx.xyz) and [notebook](https://note.bosswnx.xyz) here.
 - 📫 Feel free to reach me: bosswnx@outlook.com
 
 ### Wakatime 💻
