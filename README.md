@@ -21,8 +21,7 @@ This is Nelson Boss.
 - 🌱 I’m currently interested in and learning Compilers & Programming Languages.
 - 🧑🏻‍💻 I'm an AFO OIer and ACMer.
 - 🥰 I love movies, books, games and musics.
-- 😄 You can know more about me at https://blog.bosswnx.xyz/about
-- 🔗 My personal [profile](https://bosswnx.xyz), [blog](https://blog.bosswnx.xyz) and [notebook](https://note.bosswnx.xyz) here.
+- 😄 You can know more about me at https://blog.bosswnx.xyz/
 - 📫 Feel free to reach me: bosswnx@outlook.com
 
 ### Wakatime 💻
