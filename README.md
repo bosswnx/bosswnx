@@ -22,7 +22,7 @@ This is Nelson Boss.
 - 🧑🏻‍💻 I'm an AFO OIer and ACMer.
 - 🥰 I love movies, books, games and musics.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/
-- 📫 Feel free to reach me: bosswnx@outlook.com
+- 📫 Feel free to reach me: bosswnx@qq.com
 
 ### Wakatime 💻
 
