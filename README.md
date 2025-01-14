@@ -29,15 +29,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 11 January 2025
+From: 13 December 2024 - To: 12 January 2025
 
-Total Time: 16 hrs 2 mins
+Total Time: 13 hrs 22 mins
 
-Astro        9 hrs 21 mins   ██████████████▓░░░░░░░░░░   58.29 %
-JavaScript   1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-SCSS         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Markdown     1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-JSON         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Astro        6 hrs 52 mins   █████████████░░░░░░░░░░░░   51.40 %
+JavaScript   1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+SCSS         1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JSON         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+C++          52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->
