@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This is Nelson Boss.
 
 - 🏫 I'm a senior student at [@USTB](https://www.ustb.edu.cn/).
-- 🌱 I’m currently interested in and learning Compilers & Programming Languages.
+- 🌱 I'm currently focusing on Operating Systems and Compilers.
 - 🧑🏻‍💻 I'm an AFO OIer and ACMer.
 - 🥰 I love movies, books, games and musics.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/
