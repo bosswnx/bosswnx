@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 This is Nelson Boss.
 
-- 🏫 I'm a senior student at [@USTB](https://www.ustb.edu.cn/), [@SCCE](https://scce.ustb.edu.cn/), member of [@USTB-806](https://ustb-806.github.io/).
-- 🌱 I'm currently focusing on Operating Systems and Compilers.
-- 🧑🏻‍💻 I'm an AFO OIer and ACMer.
-- 🥰 I love movies, books, games and musics.
+- 🏫 A senior student at [@USTB](https://www.ustb.edu.cn/), [@SCCE](https://scce.ustb.edu.cn/), member of [@USTB-806](https://ustb-806.github.io/).
+- 🌱 Currently focusing on Operating Systems and Compilers.
+- 🧑🏻‍💻 An AFO OIer and ACMer.
+- 🥰 Love movies, books, games and musics.
 - 😄 You can know more about me at https://blog.bosswnx.xyz/
 - 📫 Feel free to reach me: bosswnx@qq.com
 
