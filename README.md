@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is Nelson Boss.
 
-- 🏫 I'm a senior student at [@USTB](https://www.ustb.edu.cn/).
+- 🏫 I'm a senior student at [@USTB](https://www.ustb.edu.cn/), [@SCCE](https://scce.ustb.edu.cn/), member of [@USTB-806](https://ustb-806.github.io/).
 - 🌱 I'm currently focusing on Operating Systems and Compilers.
 - 🧑🏻‍💻 I'm an AFO OIer and ACMer.
 - 🥰 I love movies, books, games and musics.
