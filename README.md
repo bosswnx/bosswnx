@@ -21,7 +21,7 @@ This is Nelson Boss.
 - 🌱 Currently focusing on Operating Systems and Compilers.
 - 🧑🏻‍💻 An AFO OIer and ACMer.
 - 🥰 Love movies, books, games and musics.
-- 😄 You can know more about me at https://blog.bosswnx.xyz/
+- 😄 You can know more about me at https://blog.bosswnx.xyz/about
 - 📫 Feel free to reach me: bosswnx@qq.com
 
 ### Wakatime 💻
