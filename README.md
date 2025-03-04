@@ -20,7 +20,6 @@ This is Nelson Boss.
 - 🏫 A senior student at [@USTB](https://www.ustb.edu.cn/), [@SCCE](https://scce.ustb.edu.cn/), member of [@USTB-806](https://ustb-806.github.io/).
 - 🌱 Currently focusing on Operating Systems and Compilers.
 - 🧑🏻‍💻 An AFO OIer and ACMer.
-- 🥰 Love movies, books, games and musics.
 - 📫 Feel free to reach me: `bosswnx@qq.com`
 
 ### Wakatime 💻
