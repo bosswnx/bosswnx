@@ -27,7 +27,7 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 25 April 2025
+From: 27 March 2025 - To: 26 April 2025
 
 Total Time: 22 hrs 27 mins
 
