@@ -27,15 +27,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 27 April 2025
+From: 29 March 2025 - To: 28 April 2025
 
-Total Time: 22 hrs 16 mins
+Total Time: 23 hrs 13 mins
 
-Markdown     4 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-MDX          3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Docker       3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Astro        2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-JSON         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Markdown     4 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+MDX          3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Docker       3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Astro        2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+SCSS         1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
