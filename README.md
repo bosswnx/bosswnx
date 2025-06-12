@@ -27,15 +27,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2025 - To: 09 June 2025
+From: 11 May 2025 - To: 10 June 2025
 
-Total Time: 16 hrs 57 mins
+Total Time: 16 hrs 8 mins
 
-TeX            11 hrs 3 mins   ████████████████▒░░░░░░░░   64.69 %
-OpenEdge ABL   2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Markdown       2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Makefile       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-YAML           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+TeX            10 hrs 36 mins  ████████████████▒░░░░░░░░   65.54 %
+OpenEdge ABL   2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Markdown       1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Makefile       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Rust           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
