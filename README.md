@@ -27,15 +27,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2025 - To: 12 June 2025
+From: 14 May 2025 - To: 13 June 2025
 
-Total Time: 6 hrs 20 mins
+Total Time: 6 hrs 23 mins
 
-TeX            4 hrs 33 mins   ██████████████████░░░░░░░   71.98 %
-Makefile       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Rust           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Docker         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-C              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TeX            4 hrs 33 mins   █████████████████▓░░░░░░░   71.33 %
+Makefile       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Rust           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Docker         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+C              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
