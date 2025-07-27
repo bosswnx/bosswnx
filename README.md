@@ -27,9 +27,9 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2025 - To: 24 July 2025
+From: 25 June 2025 - To: 25 July 2025
 
-Total Time: 21 hrs 19 mins
+Total Time: 21 hrs 18 mins
 
 Rust               19 hrs 2 mins   ████████████████████▒░░░░   81.67 %
 Other              1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
