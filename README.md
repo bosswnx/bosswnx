@@ -27,15 +27,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 09 August 2025
+From: 11 July 2025 - To: 10 August 2025
 
-Total Time: 4 hrs 50 mins
+Total Time: 4 hrs 21 mins
 
-Rust       4 hrs 16 mins   ████████████████████▓░░░░   82.51 %
-Other      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Markdown   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Makefile   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-TOML       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Rust       3 hrs 26 mins   ███████████████████▓░░░░░   78.67 %
+Markdown   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Astro      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Makefile   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+TOML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
