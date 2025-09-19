@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 This is Nelson Boss.
 
-- 🏫 A senior student at [@USTB](https://www.ustb.edu.cn/), [@SCCE](https://scce.ustb.edu.cn/), member of [@USTB-806](https://ustb-806.github.io/).
-- 🌱 Currently focusing on Operating Systems and Compilers.
+- 🏫 MS Software Engineering @ NJU.
+- 🎓 BEng. Internet of Things @ USTB, member of [@USTB-806](https://ustb-806.github.io/).
 - 🧑🏻‍💻 An AFO OIer and ACMer.
 - 📫 Feel free to reach me: `bosswnx@qq.com`
 
