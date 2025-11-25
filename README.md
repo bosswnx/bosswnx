@@ -20,6 +20,7 @@ This is Nelson Boss.
 - 🏫 MS Software Engineering @ [NJU](https://www.nju.edu.cn).
 - 🎓 BEng. Internet of Things @ [USTB](https://www.ustb.edu.cn), member of [USTB-806](https://ustb-806.github.io/).
 - 🧑🏻‍💻 An AFO OIer and ACMer.
+- ℹ️ More info about me see https://bosswnx.xyz
 - 📫 Feel free to reach me: `bosswnx@qq.com`
 
 ### Wakatime 💻
