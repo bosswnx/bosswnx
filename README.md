@@ -28,15 +28,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 12 March 2026
+From: 11 February 2026 - To: 13 March 2026
 
-Total Time: 3 hrs 17 mins
+Total Time: 3 hrs 7 mins
 
-Typst       1 hr 37 mins          ████████████▒░░░░░░░░░░░░   49.27 %
-Rust        1 hr 34 mins          ████████████░░░░░░░░░░░░░   47.72 %
-Markdown    4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Other       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-TOML        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Rust        1 hr 34 mins          ████████████▓░░░░░░░░░░░░   50.63 %
+Typst       1 hr 27 mins          ███████████▓░░░░░░░░░░░░░   46.57 %
+Markdown    4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+TOML        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Text        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
