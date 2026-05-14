@@ -28,14 +28,15 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2026 - To: 11 May 2026
+From: 12 April 2026 - To: 12 May 2026
 
-Total Time: 49 mins
+Total Time: 2 hrs 3 mins
 
-C++             37 mins               ███████████████████░░░░░░   75.88 %
-Rust            9 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-C               2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Linker Script   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C++             38 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Bash            37 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
+JSON            30 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+Other           22 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Rust            9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
