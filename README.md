@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 This is Nelson Boss.
 
+- 🏢 Internship @ [Tencent](https://www.tencent.con) related to databases.
 - 🏫 MS Software Engineering @ [NJU](https://www.nju.edu.cn).
 - 🎓 BEng. Internet of Things @ [USTB](https://www.ustb.edu.cn), member of [USTB-806](https://ustb-806.github.io/).
 - 🧑🏻‍💻 An AFO OIer and ACMer.
