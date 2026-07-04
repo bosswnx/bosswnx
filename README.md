@@ -29,7 +29,7 @@ This is Nelson Boss.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2026 - To: 01 July 2026
+From: 02 June 2026 - To: 02 July 2026
 
 Total Time: 3 hrs 56 mins
 
