@@ -23,5 +23,3 @@ This is Nelson Boss.
 - 🧑🏻‍💻 An AFO OIer and ACMer.
 - ℹ️ More info about me see https://bosswnx.xyz
 - 📫 Feel free to reach me: `bosswnx@qq.com`
-
-### Wakatime 💻
