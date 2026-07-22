@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 This is Nelson Boss.
 
 - 🏢 Internship @ [Tencent](https://www.tencent.com) related to databases.
+- 👀 Interested in Embodied AI and searching for Intership.
 - 🏫 MS Software Engineering @ [NJU](https://www.nju.edu.cn).
 - 🎓 BEng. Internet of Things @ [USTB](https://www.ustb.edu.cn), member of [USTB-806](https://ustb-806.github.io/).
 - 🧑🏻‍💻 An AFO OIer and ACMer.
